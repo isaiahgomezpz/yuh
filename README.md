@@ -81,7 +81,7 @@ local launcherCorner = Instance.new("UICorner")
 launcherCorner.CornerRadius = UDim.new(0,4)
 launcherCorner.Parent = launcherButton
 
-createTopRightButton("Minimize","7", -80, function()
+createTopRightButton("Minimize","-", -80, function()
     playSound("82845990304289") -- Minimize sound
     mainFrame.Visible = false
     launcherButton.Visible = true
