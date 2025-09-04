@@ -1,1 +1,242 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local m={"\068\072\066\074\065\049\106\075","\065\049\088\088\113\119\090\089\080\090\055\121\049\081\061\061";"\077\056\090\067\083\056\113\061";"\083\121\079\061","\077\056\051\054\077\049\111\067\055\115\099\061","\055\115\089\074\083\072\099\061";"\080\056\090\088\068\056\080\074\099\079\066\107\077\056\080\103\077\056\080\078\099\116\061\061","\055\073\111\110\077\056\047\050";"\066\079\066\122\047\073\066\049\047\113\113\106\080\107\070\085";"\068\071\090\054\055\056\051\088";"\085\067\081\107\055\118\050\101\085\081\061\061","\083\121\099\061";"\084\073\110\110\068\081\061\061";"\057\056\066\118\084\115\110\072\049\079\077\117\077\076\113\104\066\071\078\061";"\057\076\080\084\047\078\084\102\065\073\107\090\120\119\101\116\068\112\113\061";"\057\119\104\080\116\115\066\055\083\073\077\116\114\078\077\087";"\047\084\043\120\100\074\090\049\076\066\067\068\048\051\106\054\110\052\105\071\087\098\102\119\086\103\104\119\081\072\086\108\109\117\117\102\113\074\071\103\055\110\075\080";"","\080\049\051\118\055\049\101\072\065\112\101\104\083\103\082\106\120\116\061\061";"\057\121\110\115\116\107\090\098\080\121\070\057\116\049\090\071";"\077\049\106\102\084\049\047\109";"\083\049\090\119\065\082\061\061","\083\056\051\110\055\112\047\119\068\071\107\054\055\102\061\061","\055\073\090\088\055\116\061\061","\122\056\077\103\113\107\099\061","\068\056\047\110\083\056\102\061","\083\112\084\119\047\073\066\090\080\071\050\119\077\103\107\086\068\082\061\061";"\055\071\104\105\083\072\099\061";"\113\073\055\118\120\080\107\080\083\071\107\073\114\113\106\097","\068\107\070\049\116\073\081\106\122\111\090\098\113\056\079\106";"\068\073\080\119\083\049\080\119\084\115\066\110\084\071\104\107","\083\056\080\054","\055\072\047\111\084\081\061\061";"\057\112\066\119\068\079\077\107\077\082\061\061";"\113\079\088\099\116\075\107\079\065\119\066\084\077\079\077\072\077\116\061\061","\077\056\051\076\077\112\089\101\083\071\068\061","\047\071\066\073\113\075\120\073\057\073\077\073\120\071\048\072\066\102\061\061";"\115\111\051\088\055\115\066\110\077\056\090\067\083\056\113\061";"\068\071\080\088\083\072\055\107";"\115\111\051\101\083\071\066\107\114\082\061\061";"\083\090\055\067\113\071\080\067","\085\081\061\061","\115\111\051\075\084\102\061\061","\115\111\051\048\055\049\100\061","\084\075\107\119\055\116\061\061","\049\049\111\054\080\090\110\097\065\071\051\076\114\107\107\105\055\073\084\061";"\084\073\051\054\084\073\090\119"}for n,c in ipairs({{781066+-781065,-694376+694423},{683457+-683456;-545376-(-545415)};{-675404+675444;-496405-(-496452)}})do while c[567442-567441]<c[-55378-(-55380)]do m[c[-620241-(-620242)]],m[c[283365-283363]],c[-611613-(-611614)],c[-108248-(-108250)]=m[c[-741414+741416]],m[c[-387542-(-387543)]],c[1021183-1021182]+(-419324-(-419325)),c[-969816-(-969818)]-(-253284-(-253285))end end local function n(n)return m[n-(953366-928508)]end do local n=string.sub local c=table.concat local I=type local h=string.len local W=math.floor local z=table.insert local H={S=399673+-399646,a=-192298-(-192309);t=242142-242126,M=217731-217702,g=-104086-(-104121);Q=-681195-(-681227);["\051"]=-462035-(-462096),i=-160202-(-160249);["\055"]=681228-681203;["\047"]=1000547+-1000534;X=173192-173147;["\053"]=-63235-(-63294);["\054"]=660669+-660623,m=-880425+880468;["\050"]=493906-493866,N=-523938+523974;l=-207034+207097,Y=-763335+763344;j=648890-648833,E=256365+-256303,P=69945+-69924,T=984682-984658;Z=-223216+223221,e=-743639-(-743680),V=-59804-(-59819),c=-75509-(-75517),F=168117-168116,R=126285-126285,["\048"]=-169523-(-169567),D=657252-657224,["\052"]=-732234+732294,O=804444+-804440,w=399122-399070,z=530631-530612,A=-554018+554044,I=858870+-858816;["\057"]=526030+-526012,b=922338+-922280;C=-194367-(-194401);r=827178-827148;U=-693209-(-693223),h=735444-735395,p=231318-231311,k=-447913-(-447950);["\049"]=-832674-(-832696),q=-7818+7838;y=-339410+339413;x=-722654+722666,J=-991446-(-991496),H=-723434-(-723489);G=59113-59075;o=-987579+987632;v=-815143-(-815145);f=-523619+523667,W=-799873-(-799915);n=-185912-(-185945),["\043"]=-456300-(-456331),["\056"]=1024473-1024467,u=-851956+851966,K=79192+-79153,L=-764421+764472,B=277422+-277405,s=606678-606655,d=48929-48873}local g=m local x=string.char for m=928521-928520,#g,50666+-50665 do local r=g[m]if I(r)=="\115\116\114\105\110\103"then local I=h(r)local A={}local q=-727252+727253 local M=996667+-996667 local O=-633099+633099 while q<=I do local m=n(r,q,q)local c=H[m]if c then M=M+c*(-767557-(-767621))^((542235-542232)-O)O=O+(-98856+98857)if O==-236547+236551 then O=350499+-350499 local m=W(M/(415312-349776))local n=W((M%(-327137-(-392673)))/(567279+-567023))local c=M%(-233460-(-233716))z(A,x(m,n,c))M=800591+-800591 end elseif m=="\061"then z(A,x(W(M/(753661-688125))))if q>=I or n(r,q+(-302337-(-302338)),q+(495245+-495244))~="\061"then z(A,x(W((M%(822588-757052))/(679148-678892))))end break end q=q+(-831992-(-831993))end g[m]=c(A)end end end return(function(m,I,h,W,z,H,g,M,p,O,C,b,A,Y,q,x,v,c,r,Q,w)v,b,A,p,r,w,c,Y,x,q,O,M,Q,C=function(m,n)local I=M(n)local h=function()return c(m,{},n,I)end return h end,function(m,n)local I=M(n)local h=function(h)return c(m,{h},n,I)end return h end,function()q=q+(751551+-751550)r[q]=1005517+-1005516 return q end,function(m,n)local I=M(n)local h=function(...)return c(m,{...},n,I)end return h end,{},function(m,n)local I=M(n)local h=function(h,W,z,H)return c(m,{h,W;z;H},n,I)end return h end,function(c,h,W,z)local a,s,G,Z,L,T,i,k,P,g,r,O,y,J,N,R,p,X,d,B,F,S,l,q,U,u,t,K,D,M,V,e,o,E while c do if c<9638685-755455 then if c<3208036-(-650457)then if c<223296+1649551 then if c<305597+932831 then if c<1619507-739654 then if c<829956+-515561 then if c<12587+9320 then B=B+Z a=B<=u D=not k a=D and a D=B>=u D=k and D a=D or a D=952298+11724729 c=a and D a=-116180+5516625 c=c or a else c=-843150+16333500 end else q=x[W[327289+-327286]]M=923375-923343 r=q%M O=x[W[-90431+90435]]Z=146702-146689 u=-675198-(-675200)s=x[W[445797+-445795]]c=16101028-(-191349)S=x[W[206398+-206395]]D=S-r S=-758201-(-758233)k=D/S B=Z-k a=u^B J=s/a p=O(J)O=949897+4294017399 M=p%O p=-159873+159875 O=p^r r=nil q=M/O O=x[W[209178-209174]]a=-598377-(-598378)s=q%a a=-849199+4295816495 J=s*a p=O(J)O=x[W[421081-421077]]J=O(q)M=p+J p=-506339-(-571875)O=M%p s=61396-(-4140)u=-672019-(-672275)J=M-O Z=-1022824+1023080 p=J/s s=-212038+212294 J=O%s M=nil a=O-J s=a/u u=-577825-(-578081)q=nil a=p%u O=nil B=p-a u=B/Z B={J;s;a;u}u=nil s=nil x[W[-964494-(-964495)]]=B p=nil a=nil J=nil end else if c<1790411-749493 then g=n(-842935-(-867797))c=m[g]r=n(-682302+707203)g=m[r]r=n(403667-378766)m[r]=c c=39231+15526980 r=n(-648234-(-673096))m[r]=g r=x[W[824165+-824164]]q=r()else M=322758+15572545 g=16175013-(-81577)q=n(-961615+986506)r=q^M c=g-r g=n(-79868+104733)r=c c=g/r g={c}c=m[n(-95123-(-120008))]end end else if c<-198366+1802306 then if c<675493+868114 then l=-940940-(-940946)c=x[s]e=958296-958295 X=c(e,l)c=n(-777895+802757)m[c]=X l=n(1028935+-1004073)e=m[l]l=-808052-(-808054)c=e>l c=c and 9792933-(-562714)or 811494+1526349 else c=x[W[514581-514571]]q=x[W[609621+-609610]]r[c]=q c=x[W[381823+-381811]]q={c(r)}g={I(q)}c=m[n(696063+-671186)]end else if c<-484556+2304212 then s=not J M=M+p q=M<=O q=s and q s=M>=O s=J and s q=s or q s=2508760-95319 c=q and s q=1089541-(-505028)c=c or q else c={}x[W[812315+-812313]]=c s=-750806+751061 p=-616777+35184372705609 B=479231+-479230 g=x[W[96721-96718]]O=g g=q%p x[W[-712965-(-712969)]]=g J=q%s Z=B s=761719-761717 a=n(-389660+414558)p=J+s x[W[-658253-(-658258)]]=p s=m[a]a=n(263592+-238710)J=s[a]c=-330684+331848 s=J(r)J=n(-987944-(-1012812))M[q]=J B=406157+-406157 k=Z<B J=-962397+962620 u=s a=-29683-(-29684)B=a-Z end end end else if c<418488+2531897 then if c<-133460+2580669 then if c<-217656+2614517 then if c<1365985-(-695751)then c=978902+8627140 x[W[-154816+154821]]=g r=nil else l=n(-145024-(-169886))c=m[l]l=n(537153+-512252)m[l]=c c=47119+47113 end else a=-143792+143792 c=x[W[1040700-1040699]]q=M u=-521760+522015 s=c(a,u)r[q]=s c=1660864-55481 q=nil end else if c<3672894-825924 then F=-894340-(-894595)R=A()V=109359-99359 i=n(-531473-(-556345))x[R]=t g=m[i]i=n(-590716-(-615576))N=766268+-766268 c=g[i]U=-389615+389617 L=-701420+701520 i=-824368+824369 g=c(i,L)i=A()x[i]=g L=423053-423053 c=x[s]g=c(L,F)L=A()x[L]=g F=-633672-(-633673)c=x[s]K=466888-466887 y=x[i]g=c(F,y)F=A()x[F]=g g=x[s]y=g(K,U)g=1031899+-1031898 c=y==g d=n(-318545-(-343431))y=A()x[y]=c U=n(373062+-348170)g=n(-523675+548536)T=m[d]c=n(-844474-(-869357))G=x[s]E={G(N,V)}c=S[c]d=T(I(E))T=n(429340+-404448)P=d..T K=U..P U=n(-465913-(-490789))c=c(S,g,K)K=A()x[K]=c g=m[U]P=v(432117+6244748,{s,R,B;M;q;o,y,K;i;F,L;u})U={g(P)}c={I(U)}U=c c=x[y]c=c and 815502+10763035 or 7582415-314498 else l=#D c=148710+12268564 o=116829+-116828 S=O(o,l)o=J(D,S)L=-819166+819167 l=x[k]S=nil i=o-L R=s(i)l[o]=R o=nil end end else if c<4230115-652021 then if c<-861424+4217704 then c=-82795+6816000 R=C(R)F=C(F)K=C(K)L=C(L)i=C(i)y=C(y)U=nil else r=h[6126-6125]q=h[-1011752+1011754]c=x[W[-282794-(-282795)]]M=c c=M[q]c=c and 14013904-10829 or-695863+2565602 end else if c<3503161-(-185860)then c=6390158-(-134417)B=n(91585-66714)u=m[B]g=u else c=m[n(171470-146604)]g={}end end end end else if c<-241432+5814950 then if c<5166451-162847 then if c<4550031-312143 then if c<3568214-(-565939)then if c<-320926+4321483 then M=291070+-290984 c=7765356-434132 q=x[W[-925770+925773]]r=q*M q=-876359-(-876616)g=r%q x[W[843967+-843964]]=g else x[q]=P N=142084-142083 E=x[F]G=E+N d=U[G]T=Z+d d=202581-202325 c=T%d Z=c c=3531952-530143 G=x[L]d=k+G G=-226191+226447 T=d%G k=T end else c=B c=u and 856992+5667583 or 4530747-922237 g=u end else if c<49778+4599352 then X=x[q]t=X c=X and 5335282-443295 or-876898+13270137 else c=13131595-738356 X=Z==k t=X end end else if c<6137632-749463 then if c<5984235-866310 then c={}M=x[W[-187914+187923]]O=M r=c M=-183575-(-183576)c=795455+809928 p=M M=-552781+552781 q=945155-945154 J=p<M M=q-p else r=n(-850852+875755)M=331264+-331264 c=m[r]q=x[W[349425+-349417]]r=c(q,M)c=4599191-(-475923)end else if c<30346+5437609 then c=15576939-841291 O=nil J=nil s=nil else c=true c=c and-228949+12044608 or-915461+12469293 end end end else if c<569415+6357958 then if c<6318196-(-248014)then if c<187+6003744 then if c<-256997+5979272 then c=607142+1387824 M=x[W[-252224-(-252230)]]q=M==r g=q else c=-651914+16747018 E=-972133-(-972135)G=U[E]E=x[K]d=G==E P=d end else u=A()Z=-303208+303273 x[u]=g B=-917866-(-917869)c=x[s]g=c(B,Z)B=A()c=946517-946517 Z=c c=-762122+762122 k=c D=n(736044+-711168)x[B]=g g=m[D]S=w(-169997+16140872,{})D={g(S)}g=-895779+895781 c={I(D)}D=c c=D[g]g=n(-239611+264513)S=c e=n(949056-924170)c=m[g]o=x[M]X=m[e]e=X(S)X=n(-509670-(-534531))t=o(e,X)o={t()}g=c(I(o))o=A()x[o]=g g=-101820-(-101821)t=x[B]X=t t=1010450-1010449 e=t c=6862250-129045 t=125101+-125101 l=e<t t=g-e end else if c<227395+6482782 then p=-333006+333008 q=x[W[218030+-218029]]O=535811-535810 M=q(O,p)q=977713-977712 r=M==q c=r and-226853+14376757 or 10402449-(-224307)g=r else t=t+e g=t<=X R=not l g=R and g R=t>=X R=l and R g=R or g R=3420217-752239 c=g and R g=4853377-467740 c=c or g end end else if c<6865008-(-780452)then if c<-693415+7992420 then T=x[q]P=T c=T and 646472+9751801 or-766266+4831541 else M=965016+-965015 q=x[W[753409-753406]]r=q~=M c=r and 1107836-287438 or 3755557-(-232252)end else if c<387921+8153388 then c=11113+10796175 S=o L=S D[S]=L S=nil else x[q]=g c=2681172-(-320637)end end end end end else if c<604243+11811234 then if c<570901+10105970 then if c<10649388-422713 then if c<10319989-824309 then if c<-743339+10004483 then if c<503737+8626670 then r=x[W[-72455-(-72456)]]g=#r r=270108+-270108 c=g==r c=c and 729710+8635214 or 701255+15591122 else B=C(B)o=C(o)S=nil D=nil B=A()s=C(s)O=C(O)p=C(p)u=C(u)Z=nil M=C(M)M=nil k=nil o=-794503+794759 q=C(q)a=nil J=nil J=n(-83792-(-108664))Z={}q=nil p=m[J]S=291254+-291253 a=n(-279455+304355)s=n(-226361+251233)J=n(-509813+534691)O=p[J]p=A()u=n(-51346-(-76244))D={}x[p]=O J=m[s]s=n(412350-387490)l=o O=J[s]s=m[a]a=n(-137940-(-162829))J=s[a]a=m[u]u=n(559334-534471)s=a[u]u=A()a=-731882-(-731882)x[u]=a a=346458+-346456 o=409684-409683 c=10127597-(-679691)k=A()R=o x[B]=a a={}x[k]=Z o=-661642+661642 Z=-686073-(-686073)i=R<o o=S-R end else q=x[W[542059-542057]]M=-401921+401986 r=q*M q=833412+16401633093201 g=r+q r=855663+35184371233169 c=g%r q=117578+-117577 x[W[370788-370786]]=c r=x[W[-257865-(-257868)]]c=790553+3197256 g=r~=q end else if c<10431104-394786 then c=x[W[86185-86178]]c=c and 6343423-1014321 or 5318968-243854 else c=true c=12213372-659540 end end else if c<9440094-(-1031792)then if c<11174512-791894 then e=n(644826+-619940)c=m[e]R=n(-106195-(-131096))l=m[R]e=c(l)c=n(-1018939-(-1043801))m[c]=e c=45100-(-49132)else c=4686326-621051 d=453968+-453967 T=U[d]P=T end else if c<10449534-(-164679)then o=#D l=156021-156021 S=o==l c=-850317+3791103 else q=x[W[-114990-(-114992)]]M=x[W[648563+-648560]]c=13484306-(-665598)r=q==M g=r end end end else if c<11675352-19379 then if c<219959+10968796 then if c<339614+10467643 then if c<137288+10642311 then c=3600585-(-589500)D=n(-677745+702645)k=m[D]D=n(-831811-(-856682))Z=k[D]u=Z else g=n(-739494+764397)c=m[g]r=n(-731745+756649)g=c(r)c=m[n(-467062-(-491958))]g={}end else o=o+R S=o<=l L=not i S=L and S L=o>=l L=i and L S=L or S L=7251757-(-922829)c=S and L S=842331+9665736 c=c or S end else if c<967372+10598065 then c=b(15652500-(-982752),{O})X={c()}g={I(X)}c=m[n(-278388+303267)]else P=x[q]c=P and 15963627-260403 or-149769+8735872 g=P end end else if c<622565+11698547 then if c<389464+11858350 then c=-625273+16115623 else s=n(607155-582283)J=g g=m[s]s=n(210364+-185504)c=g[s]s=A()x[s]=c a=n(716744+-691844)k=n(1036935+-1012035)g=m[a]a=n(1006311-981414)c=g[a]Z=m[k]B=c u=Z a=c c=Z and 9761513-(-935438)or-724912+4914997 end else if c<13249311-855673 then x[q]=t c=x[q]c=c and 14015893-17270 or-821948+11043038 else s=n(-453417+478293)r=h M=n(-171394+196292)c=true q=A()x[q]=c g=m[M]M=n(130141+-105236)c=g[M]M=A()x[M]=c c=v(9976008-(-831004),{})O=A()x[O]=c c=false p=A()x[p]=c J=m[s]a=b(17004919-538887,{p})s=J(a)g=s c=s and 14279910-62692 or 12866369-616547 end end end end else if c<-569039+15379816 then if c<-281044+14465666 then if c<14648563-646158 then if c<14496547-722347 then if c<12631488-(-29661)then l=-975391-(-975391)o=#D S=o==l c=S and 15629846-784672 or 164776+2776010 else e=n(-277638-(-302536))X=m[e]e=n(752613-727718)a=B t=X[e]X=t(r,a)t=x[W[697350+-697344]]e=t()c=-996491-(-997655)o=X+e e=905883+-905882 S=o+J o=-309778-(-310034)D=S%o o=M[q]J=D X=J+e t=O[X]S=o..t a=nil M[q]=S end else c=8097428-(-1042962)end else if c<-71966+14106258 then c=-639962+15375610 else c=g and 14558577-338530 or 10173862-567820 end end else if c<505415+13768038 then if c<13942059-(-275970)then J=x[p]c=11659042-(-590780)g=J else u=Q(-4959+1171709,{})g=n(1005327-980425)a=n(204910+-180034)c=m[g]r=x[W[802828+-802824]]O=n(-721349-(-746235))M=m[O]s=m[a]a={s(u)}s=-168101+168103 J={I(a)}p=J[s]O=M(p)M=n(650614+-625753)q=r(O,M)r={q()}g=c(I(r))r=g q=x[W[502784+-502779]]g=q c=q and 4544671-(-1029429)or 482766+1512200 end else if c<627635+14109478 then g={q}c=m[n(-869824-(-894711))]else c=m[n(-237083+261947)]g={}end end end else if c<16838447-781253 then if c<1042211+14614326 then if c<16482047-940327 then if c<861599+14361638 then d=nil o=A()S={}l=b(9543811-470903,{o,u;B;p})J=nil x[o]=S Z=nil a=nil y=n(844878-819988)R=A()i=n(-710117+734998)S=A()O=nil x[S]=l l={}U=n(-221938-(-246826))L={}x[R]=l l=m[i]Z=-563588+11428073549389 K=x[R]g={}F={[y]=K;[U]=d}s=nil i=l(L,F)l=Y(-735304+4093990,{R;o;k,u;B;S})D=nil u=C(u)R=C(R)o=C(o)M=i q=l S=C(S)k=C(k)c=m[n(-765152-(-790011))]p=C(p)B=C(B)s=n(272334-247460)p=n(842411+-817538)B=n(214689+-189822)O=m[p]J=m[s]u=q(B,Z)B=n(-669982+694866)a=M[u]u=true B=J[B]s={B(J,a,u)}q=nil p=O(I(s))O=p()M=nil else c=true c=c and 877689-(-427549)or 15123713-380197 end else c=true c=c and 562961+455688 or 4564191-765958 end else if c<15888809-95912 then E=600069+-600068 T=c G=U[E]E=false d=G==E P=d c=d and 872866+4853444 or-336721+16431825 else q=n(-388070-(-412945))g=-581120+14604795 M=-147109+10040144 r=q^M c=g-r g=n(315132+-290233)r=c c=g/r g={c}c=m[n(201894-177025)]end end else if c<294553+16065739 then if c<16661744-442853 then c=T c=22569+8563534 g=P else M=n(-279955-(-304855))q=m[M]M=n(107602+-82713)r=q[M]M=x[W[81969-81968]]c=m[n(-843300+868180)]q={r(M)}g={I(q)}end else if c<828603+15785890 then c=true x[W[-738578-(-738579)]]=c g={}c=m[n(925850-900980)]else c=16573864-1007653 end end end end end end end c=#z return I(g)end,function(m,n)local I=M(n)local h=function(h,W)return c(m,{h,W},n,I)end return h end,{},-202207+202207,function(m)local n,c=540233+-540232,m[-1045482+1045483]while c do r[c],n=r[c]-(-908402-(-908403)),n+(395620+-395619)if-805082+805082==r[c]then r[c],x[c]=nil,nil end c=m[n]end end,function(m)for n=318792+-318791,#m,173295+-173294 do r[m[n]]=r[m[n]]+(-409536+409537)end if h then local c=h(true)local I=z(c)I[n(385897+-361007)],I[n(-616124-(-641017))],I[n(697834+-672940)]=m,O,function()return-2039249-662297 end return c else return W({},{[n(438286+-413393)]=O;[n(-586642+611532)]=m,[n(-965854+990748)]=function()return 607504+-3309050 end})end end,function(m,n)local I=M(n)local h=function(h,W,z,H,g)return c(m,{h,W;z,H;g},n,I)end return h end,function(m)r[m]=r[m]-(28108+-28107)if r[m]==-541182+541182 then r[m],x[m]=nil,nil end end return(p(624780+11786949,{}))(I(g))end)(getfenv and getfenv()or _ENV,unpack or table[n(-717390-(-742261))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+--// Services
+local player = game:GetService("Players").LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+local soundService = game:GetService("SoundService")
+
+--// ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Parent = playerGui
+screenGui.Name = "VjrsuuGUI"
+
+--// Main Frame
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 400, 0, 250)
+mainFrame.Position = UDim2.new(0.5, -200, 0.5, -125)
+mainFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainFrame.BackgroundTransparency = 0.2
+mainFrame.BorderSizePixel = 0
+mainFrame.Active = true
+mainFrame.Draggable = true
+mainFrame.Parent = screenGui
+
+local uiCorner = Instance.new("UICorner")
+uiCorner.CornerRadius = UDim.new(0, 12)
+uiCorner.Parent = mainFrame
+
+--// Title
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(1, -80, 0, 40)
+title.Position = UDim2.new(0, 0, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "Vjrsuu Inc - Free Version"
+title.Font = Enum.Font.GothamBold
+title.TextSize = 24
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.Parent = mainFrame
+
+--// Sounds
+local function playSound(soundId)
+    local sound = Instance.new("Sound")
+    sound.SoundId = "rbxassetid://"..soundId
+    sound.Volume = 1
+    sound.Parent = workspace
+    sound:Play()
+    game:GetService("Debris"):AddItem(sound, 3)
+end
+
+--// Top-right buttons
+local function createTopRightButton(name,text,posX,func)
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(0,35,0,25)
+    btn.Position = UDim2.new(1, posX, 0, 7)
+    btn.BackgroundColor3 = Color3.fromRGB(0,0,0)
+    btn.BackgroundTransparency = 0.5
+    btn.Text = text
+    btn.TextColor3 = Color3.fromRGB(255,255,255)
+    btn.Font = Enum.Font.GothamBold
+    btn.TextSize = 16
+    btn.Parent = mainFrame
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0,4)
+    corner.Parent = btn
+    btn.MouseButton1Click:Connect(func)
+end
+
+-- Close
+createTopRightButton("Close","X",-40,function() screenGui:Destroy() end)
+
+-- Minimize
+local launcherButton = Instance.new("TextButton")
+launcherButton.Size = UDim2.new(0,20,0,20)
+launcherButton.Position = UDim2.new(0,10,1,-30)
+launcherButton.BackgroundColor3 = Color3.fromRGB(0,0,0)
+launcherButton.BackgroundTransparency = 0.5
+launcherButton.Text = "VJ"
+launcherButton.TextColor3 = Color3.fromRGB(255,255,255)
+launcherButton.Font = Enum.Font.GothamBold
+launcherButton.TextSize = 12
+launcherButton.Visible = false
+launcherButton.Parent = screenGui
+local launcherCorner = Instance.new("UICorner")
+launcherCorner.CornerRadius = UDim.new(0,4)
+launcherCorner.Parent = launcherButton
+
+createTopRightButton("Minimize","7", -80, function()
+    playSound("82845990304289") -- Minimize sound
+    mainFrame.Visible = false
+    launcherButton.Visible = true
+end)
+
+launcherButton.MouseButton1Click:Connect(function()
+    playSound("82845990304289") -- Maximize sound
+    mainFrame.Visible = true
+    launcherButton.Visible = false
+end)
+
+--// Bottom-right Avatar + Username
+local bottomInfoFrame = Instance.new("Frame")
+bottomInfoFrame.Size = UDim2.new(0,100,0,20)
+bottomInfoFrame.Position = UDim2.new(1,-110,1,-30)
+bottomInfoFrame.BackgroundTransparency = 1
+bottomInfoFrame.Parent = mainFrame
+
+local avatar = Instance.new("ImageLabel")
+avatar.Size = UDim2.new(0,20,0,20)
+avatar.Position = UDim2.new(0,0,0,0)
+avatar.BackgroundTransparency = 1
+avatar.Image = "https://www.roblox.com/headshot-thumbnail/image?userId="..player.UserId.."&width=420&height=420&format=png"
+avatar.Parent = bottomInfoFrame
+
+local bottomUsernameLabel = Instance.new("TextLabel")
+bottomUsernameLabel.Size = UDim2.new(1,-25,1,0)
+bottomUsernameLabel.Position = UDim2.new(0,25,0,0)
+bottomUsernameLabel.BackgroundTransparency = 1
+bottomUsernameLabel.Text = player.Name
+bottomUsernameLabel.Font = Enum.Font.Gotham
+bottomUsernameLabel.TextSize = 12
+bottomUsernameLabel.TextColor3 = Color3.fromRGB(255,255,255)
+bottomUsernameLabel.TextXAlignment = Enum.TextXAlignment.Left
+bottomUsernameLabel.TextTruncate = Enum.TextTruncate.AtEnd
+bottomUsernameLabel.Parent = bottomInfoFrame
+
+--// Sidebar
+local sidebar = Instance.new("ScrollingFrame")
+sidebar.Size = UDim2.new(0,120,1,-40)
+sidebar.Position = UDim2.new(0,0,0,40)
+sidebar.BackgroundColor3 = Color3.fromRGB(0,0,0)
+sidebar.BackgroundTransparency = 0.5
+sidebar.BorderSizePixel = 0
+sidebar.CanvasSize = UDim2.new(0,0,0,200)
+sidebar.ScrollBarThickness = 6
+sidebar.Parent = mainFrame
+
+local sidebarCorner = Instance.new("UICorner")
+sidebarCorner.CornerRadius = UDim.new(0,8)
+sidebarCorner.Parent = sidebar
+
+--// Main content frame
+local contentFrame = Instance.new("ScrollingFrame")
+contentFrame.Size = UDim2.new(1,-120,1,-40)
+contentFrame.Position = UDim2.new(0,120,0,40)
+contentFrame.BackgroundColor3 = Color3.fromRGB(0,0,0)
+contentFrame.BackgroundTransparency = 0.5
+contentFrame.BorderSizePixel = 0
+contentFrame.CanvasSize = UDim2.new(0,0,2,0)
+contentFrame.ScrollBarThickness = 6
+contentFrame.Parent = mainFrame
+
+local contentCorner = Instance.new("UICorner")
+contentCorner.CornerRadius = UDim.new(0,8)
+contentCorner.Parent = contentFrame
+
+--// Sidebar buttons
+local sidebarOptions = {
+    ["Kill-Parts"] = {"Sabre","Officer's Sabre","Heavy Sabre"},
+}
+
+local function addHoverGlow(button)
+    local originalTransparency = button.BackgroundTransparency
+    button.MouseEnter:Connect(function()
+        button.BackgroundTransparency = 0.2
+    end)
+    button.MouseLeave:Connect(function()
+        button.BackgroundTransparency = originalTransparency
+    end)
+end
+
+--// Create sidebar and content buttons
+local function createSidebar()
+    for i, optionName in ipairs({"Kill-Parts"}) do
+        local btn = Instance.new("TextButton")
+        btn.Size = UDim2.new(1,-10,0,40)
+        btn.Position = UDim2.new(0,5,0,(i-1)*50 + 5)
+        btn.BackgroundColor3 = Color3.fromRGB(0,0,0)
+        btn.BackgroundTransparency = 0.5
+        btn.Text = optionName
+        btn.TextColor3 = Color3.fromRGB(255,255,255)
+        btn.Font = Enum.Font.GothamBold
+        btn.TextSize = 18
+        btn.Parent = sidebar
+
+        local btnCorner = Instance.new("UICorner")
+        btnCorner.CornerRadius = UDim.new(0,6)
+        btnCorner.Parent = btn
+
+        addHoverGlow(btn)
+
+        btn.MouseButton1Click:Connect(function()
+            playSound("15675032796") -- Folder click sound
+
+            -- Clear previous content
+            for _, child in ipairs(contentFrame:GetChildren()) do
+                if child:IsA("TextButton") then
+                    child:Destroy()
+                end
+            end
+            local buttons = sidebarOptions[optionName]
+            for j, bName in ipairs(buttons) do
+                local b = Instance.new("TextButton")
+                b.Size = UDim2.new(0,200,0,40)
+                b.Position = UDim2.new(0,20,0,(j-1)*50 + 10)
+                b.BackgroundColor3 = Color3.fromRGB(0,0,0)
+                b.BackgroundTransparency = 0.5
+                b.Text = bName
+                b.TextColor3 = Color3.fromRGB(255,255,255)
+                b.Font = Enum.Font.Gotham
+                b.TextSize = 18
+                b.Parent = contentFrame
+
+                local corner = Instance.new("UICorner")
+                corner.CornerRadius = UDim.new(0,6)
+                corner.Parent = b
+
+                addHoverGlow(b)
+
+                -- Connect individual button functions
+                b.MouseButton1Click:Connect(function()
+                    playSound("15675032796") -- Button click sound
+                    KillPartButtons[bName]() -- Call function at bottom
+                end)
+            end
+            contentFrame.CanvasSize = UDim2.new(0,0,#buttons*50 + 20,0)
+        end)
+    end
+end
+
+-- Initialize sidebar
+createSidebar()
+
+--// Kill-Parts Button Functions
+KillPartButtons = {
+    ["Sabre"] = function()
+        local LocalPlayer = game:GetService("Players").LocalPlayer local raycastParams = RaycastParams.new() raycastParams.FilterDescendantsInstances = {LocalPlayer.Character} raycastParams.FilterType = Enum.RaycastFilterType.Exclude local params = OverlapParams.new() params.FilterDescendantsInstances = {LocalPlayer.Character} function detectEnemy(hitbox, hrp) 	while true do 		local parts = workspace:GetPartsInPart(hitbox, params) 		for i, part in pairs(parts) do 			if part.Parent.Name == "m_Zombie" then 				local Origin = part.Parent:WaitForChild("Orig") 				if Origin.Value ~= nil then 					local zombie = Origin.Value:WaitForChild("Zombie") 					if LocalPlayer.Character:FindFirstChild("Sabre") and LocalPlayer.Character["Sabre"]:IsA("Tool") then 						local hit = Origin.Value 						local zombieHead = workspace:Raycast(hrp.CFrame.Position, hit.Head.CFrame.Position - hrp.CFrame.Position) 						local calc = (zombieHead.Position - hrp.CFrame.Position) 						if calc:Dot(calc) > 1 then 							calc = calc.Unit 			end 						if LocalPlayer:DistanceFromCharacter(Origin.Value:FindFirstChild("HumanoidRootPart").CFrame.Position) < 13 then 							if zombie.WalkSpeed > 16 then 								game:GetService("ReplicatedStorage").Remotes.Gib:FireServer(hit, "Head", hit.Head.CFrame.Position, zombieHead.Normal, true) 								game:GetService("Workspace").Players[LocalPlayer.Name]["Sabre"].RemoteEvent:FireServer("Swing", "Thrust") 					game:GetService("Workspace").Players[LocalPlayer.Name]["Sabre"].RemoteEvent:FireServer("HitZombie", hit, hit.Head.CFrame.Position, true, calc * 25, "Head", zombieHead.Normal) 					else 						if part.Parent:FindFirstChild("Barrel") == nil then 							game:GetService("ReplicatedStorage").Remotes.Gib:FireServer(hit, "Head", hit.Head.CFrame.Position, zombieHead.Normal, true) 									game:GetService("Workspace").Players[LocalPlayer.Name]["Sabre"].RemoteEvent:FireServer("Swing", "Thrust") 						game:GetService("Workspace").Players[LocalPlayer.Name]["Sabre"].RemoteEvent:FireServer("HitZombie", hit, hit.Head.CFrame.Position, true, calc * 25, "Head", zombieHead.Normal) 								end 							end 						end 					end 				end	 			end 		end 	task.wait(0.1) 	end end workspace.Players.ChildAdded:Connect(function(child) 	if child.Name == LocalPlayer.Name then 		local torso = child:WaitForChild("HumanoidRootPart") 		local hitbox = Instance.new("Part", torso) 		local weld = Instance.new("WeldConstraint", torso) 		weld.Part0 = hitbox 		weld.Part1 = child.HumanoidRootPart 		hitbox.Name = "Hitbox" 		hitbox.Anchored = false 		hitbox.Massless = true 		hitbox.CanCollide = false 		hitbox.CanTouch = true 		hitbox.Transparency = 0.95 		hitbox.Size = Vector3.new(1, 4, 1) 		hitbox.Position = Vector3.new(torso.Position.X, torso.Position.Y, torso.Position.Z-5.8) 		detectEnemy(LocalPlayer.Character.HumanoidRootPart:WaitForChild("Hitbox"), LocalPlayer.Character.HumanoidRootPart) 	end end) 
+
+    end,
+    ["Officer's Sabre"] = function()
+        local LocalPlayer = game:GetService("Players").LocalPlayer local raycastParams = RaycastParams.new() raycastParams.FilterDescendantsInstances = {LocalPlayer.Character} raycastParams.FilterType = Enum.RaycastFilterType.Exclude local params = OverlapParams.new() params.FilterDescendantsInstances = {LocalPlayer.Character} function detectEnemy(hitbox, hrp) 	while true do 		local parts = workspace:GetPartsInPart(hitbox, params) 		for i, part in pairs(parts) do 			if part.Parent.Name == "m_Zombie" then 				local Origin = part.Parent:WaitForChild("Orig") 				if Origin.Value ~= nil then 					local zombie = Origin.Value:WaitForChild("Zombie") 					if LocalPlayer.Character:FindFirstChild("Officer's Sabre") and LocalPlayer.Character["Officer's Sabre"]:IsA("Tool") then 						local hit = Origin.Value 						local zombieHead = workspace:Raycast(hrp.CFrame.Position, hit.Head.CFrame.Position - hrp.CFrame.Position) 						local calc = (zombieHead.Position - hrp.CFrame.Position) 						if calc:Dot(calc) > 1 then 							calc = calc.Unit 			end 						if LocalPlayer:DistanceFromCharacter(Origin.Value:FindFirstChild("HumanoidRootPart").CFrame.Position) < 13 then 							if zombie.WalkSpeed > 16 then 								game:GetService("ReplicatedStorage").Remotes.Gib:FireServer(hit, "Head", hit.Head.CFrame.Position, zombieHead.Normal, true) 								game:GetService("Workspace").Players[LocalPlayer.Name]["Officer's Sabre"].RemoteEvent:FireServer("Swing", "Thrust") 					game:GetService("Workspace").Players[LocalPlayer.Name]["Officer's Sabre"].RemoteEvent:FireServer("HitZombie", hit, hit.Head.CFrame.Position, true, calc * 25, "Head", zombieHead.Normal) 					else 						if part.Parent:FindFirstChild("Barrel") == nil then 							game:GetService("ReplicatedStorage").Remotes.Gib:FireServer(hit, "Head", hit.Head.CFrame.Position, zombieHead.Normal, true) 									game:GetService("Workspace").Players[LocalPlayer.Name]["Officer's Sabre"].RemoteEvent:FireServer("Swing", "Thrust") 						game:GetService("Workspace").Players[LocalPlayer.Name]["Officer's Sabre"].RemoteEvent:FireServer("HitZombie", hit, hit.Head.CFrame.Position, true, calc * 25, "Head", zombieHead.Normal) 								end 							end 						end 					end 				end	 			end 		end 	task.wait(0.1) 	end end workspace.Players.ChildAdded:Connect(function(child) 	if child.Name == LocalPlayer.Name then 		local torso = child:WaitForChild("HumanoidRootPart") 		local hitbox = Instance.new("Part", torso) 		local weld = Instance.new("WeldConstraint", torso) 		weld.Part0 = hitbox 		weld.Part1 = child.HumanoidRootPart 		hitbox.Name = "Hitbox" 		hitbox.Anchored = false 		hitbox.Massless = true 		hitbox.CanCollide = false 		hitbox.CanTouch = true 		hitbox.Transparency = 0.95 		hitbox.Size = Vector3.new(1, 4, 1) 		hitbox.Position = Vector3.new(torso.Position.X, torso.Position.Y, torso.Position.Z-5.8) 		detectEnemy(LocalPlayer.Character.HumanoidRootPart:WaitForChild("Hitbox"), LocalPlayer.Character.HumanoidRootPart) 	end end) 
+
+    end,
+    ["Heavy Sabre"] = function()
+        local LocalPlayer = game:GetService("Players").LocalPlayer local raycastParams = RaycastParams.new() raycastParams.FilterDescendantsInstances = {LocalPlayer.Character} raycastParams.FilterType = Enum.RaycastFilterType.Exclude local params = OverlapParams.new() params.FilterDescendantsInstances = {LocalPlayer.Character} function detectEnemy(hitbox, hrp) 	while true do 		local parts = workspace:GetPartsInPart(hitbox, params) 		for i, part in pairs(parts) do 			if part.Parent.Name == "m_Zombie" then 				local Origin = part.Parent:WaitForChild("Orig") 				if Origin.Value ~= nil then 					local zombie = Origin.Value:WaitForChild("Zombie") 					if LocalPlayer.Character:FindFirstChild("Heavy Sabre") and LocalPlayer.Character["Heavy Sabre"]:IsA("Tool") then 						local hit = Origin.Value 						local zombieHead = workspace:Raycast(hrp.CFrame.Position, hit.Head.CFrame.Position - hrp.CFrame.Position) 						local calc = (zombieHead.Position - hrp.CFrame.Position) 						if calc:Dot(calc) > 1 then 							calc = calc.Unit 			end 						if LocalPlayer:DistanceFromCharacter(Origin.Value:FindFirstChild("HumanoidRootPart").CFrame.Position) < 13 then 							if zombie.WalkSpeed > 16 then 								game:GetService("ReplicatedStorage").Remotes.Gib:FireServer(hit, "Head", hit.Head.CFrame.Position, zombieHead.Normal, true) 								game:GetService("Workspace").Players[LocalPlayer.Name]["Heavy Sabre"].RemoteEvent:FireServer("Swing", "Thrust") 					game:GetService("Workspace").Players[LocalPlayer.Name]["Heavy Sabre"].RemoteEvent:FireServer("HitZombie", hit, hit.Head.CFrame.Position, true, calc * 25, "Head", zombieHead.Normal) 					else 						if part.Parent:FindFirstChild("Barrel") == nil then 							game:GetService("ReplicatedStorage").Remotes.Gib:FireServer(hit, "Head", hit.Head.CFrame.Position, zombieHead.Normal, true) 									game:GetService("Workspace").Players[LocalPlayer.Name]["Heavy Sabre"].RemoteEvent:FireServer("Swing", "Thrust") 						game:GetService("Workspace").Players[LocalPlayer.Name]["Heavy Sabre"].RemoteEvent:FireServer("HitZombie", hit, hit.Head.CFrame.Position, true, calc * 25, "Head", zombieHead.Normal) 								end 							end 						end 					end 				end	 			end 		end 	task.wait(0.1) 	end end workspace.Players.ChildAdded:Connect(function(child) 	if child.Name == LocalPlayer.Name then 		local torso = child:WaitForChild("HumanoidRootPart") 		local hitbox = Instance.new("Part", torso) 		local weld = Instance.new("WeldConstraint", torso) 		weld.Part0 = hitbox 		weld.Part1 = child.HumanoidRootPart 		hitbox.Name = "Hitbox" 		hitbox.Anchored = false 		hitbox.Massless = true 		hitbox.CanCollide = false 		hitbox.CanTouch = true 		hitbox.Transparency = 0.95 		hitbox.Size = Vector3.new(1, 4, 1) 		hitbox.Position = Vector3.new(torso.Position.X, torso.Position.Y, torso.Position.Z-7.8) 		detectEnemy(LocalPlayer.Character.HumanoidRootPart:WaitForChild("Hitbox"), LocalPlayer.Character.HumanoidRootPart) 	end end)
+    end
+}
